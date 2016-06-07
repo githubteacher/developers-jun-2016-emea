@@ -1,4 +1,4 @@
-# Welcome to Introduction to GitHub!
+# Welcome to GitHub for Developers!
 
 ### Facilitators
 - On the Mic:
@@ -9,7 +9,7 @@
 
 ### Before We Begin
 - Sign up for an account on [github.com](http://github.com)
-- Navigate to this repository: https://github.com/githubteacher/intro-to-github-june-2016/
+- Navigate to this repository: https://github.com/githubteacher/developers-jun-2016-emea/
 
 ### Talk To Us! :speech_balloon:
 - [![Join the chat at https://gitter.im/githubteacher/developers-jun-2016-emea](https://badges.gitter.im/githubteacher/developers-jun-2016-emea.svg)](https://gitter.im/githubteacher/developers-jun-2016-emea?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
