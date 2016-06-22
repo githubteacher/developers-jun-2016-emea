@@ -1,6 +1,8 @@
 # MadisonNJ
 
 ### Restaurants
+ - Lots of Italian Restaurants ... You can't miss them
+ - Lots of Pizza places but none are special
 
 ### Tourist Attractions
 
