@@ -1,6 +1,10 @@
 # Philly, PA
 
 ### Restaurants
+- Mama's Vegetarian
+- Di Bruno Bros.
+- Vernick Food & Drink
+
 
 ### Toursit Attractions
 
