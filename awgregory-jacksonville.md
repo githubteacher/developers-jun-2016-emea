@@ -2,3 +2,6 @@
 
 ### Restaurants
 casbah
+
+### Attractions
+beach
