@@ -4,7 +4,8 @@
 - On the Mic:
   - Hector, :octocat: [@halfaro1](http://github.com/halfaro1)
 - On Gitter:
-  - Cynthia, :octocat: [@crichID](http://github.com/crichid)
+  - Stefan, :octocat: [@stoe](http://github.com/stoe)
+  - Matt, :octocat: [@beardofedu](http://github.com/beardofedu)
 - :email: [services@github.com](mailto:services@github.com)
 
 ### Before We Begin
