@@ -5,6 +5,8 @@
 - Italian: Pizza Hut, basic Italian food
 
 ### Tourist Attractions
+- Round table, up at the north of town King Arther's Round Table
+- Winchester Cathedral
 
 ### Local Attractions
 - Winchester Guildhall
