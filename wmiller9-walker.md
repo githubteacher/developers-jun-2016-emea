@@ -1,6 +1,9 @@
 # Walker, MN
 
 ### Resturants
+- Zona Rosa
+- 492 Club
+- The Ranch House
 
 ### Tourist Attractions
 
