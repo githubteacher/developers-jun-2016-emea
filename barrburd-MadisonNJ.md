@@ -5,6 +5,7 @@
  - Lots of Pizza places but none are special
 
 ### Tourist Attractions
+ - (Tourist Attractions? You must be joking!)
 
 ### Local Attractions
 - QuickCheck parking lot where teenagers hang out at night
