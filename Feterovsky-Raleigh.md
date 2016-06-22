@@ -9,3 +9,5 @@
 - Museum of Natural History
 
 ### Local Attractions
+
+- Town of Apex downtown
