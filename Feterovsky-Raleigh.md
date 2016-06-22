@@ -7,6 +7,7 @@
 ### Tourist Attractions
 
 - Museum of Natural History
+- NC State
 
 ### Local Attractions
 
