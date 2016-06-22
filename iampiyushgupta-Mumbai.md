@@ -8,6 +8,7 @@
 
 ### Tourist Attractions
 - Gateway of India
+- Bollywood
 
 ### Local Attractions
 -Chor Bazar
