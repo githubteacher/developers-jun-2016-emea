@@ -13,3 +13,6 @@
 ### Local Attractions
 - Kimball Farm: https://butterflyplace-ma.com/  
 - Nashoba Valley Ski Area: https://www.skinashoba.com/
+- The Butterfly Place: https://butterflyplace-ma.com/
+
+
