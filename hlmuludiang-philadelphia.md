@@ -2,7 +2,7 @@
 
 ### Restaurants
 - Larry's Steaks
-- Malbec
+- Argentinian: Malbec
 
 ### Tourist Attractions
 - Pat's cheesesteaks
