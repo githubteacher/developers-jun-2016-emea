@@ -4,6 +4,8 @@
 1.  Burrito Hut :grin:
 
 ### Tourist Attractions
+1. American Optical
+2. YMCA
 
 ### Local Attractions
 1.  Your friend the TV
