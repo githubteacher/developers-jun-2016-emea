@@ -6,3 +6,4 @@
 
 ### Local Attractions
 - Papago Park
+- Canyon Lake
