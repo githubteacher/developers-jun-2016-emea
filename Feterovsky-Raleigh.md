@@ -6,4 +6,6 @@
 
 ### Tourist Attractions
 
+- Museum of Natural History
+
 ### Local Attractions
