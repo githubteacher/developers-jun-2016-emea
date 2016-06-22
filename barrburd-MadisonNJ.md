@@ -6,6 +6,7 @@
 
 ### Tourist Attractions
  - (Tourist Attractions? You must be joking!)
+ - Actually, easy access to New York City
 
 ### Local Attractions
 - QuickCheck parking lot where teenagers hang out at night
