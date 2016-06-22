@@ -5,6 +5,7 @@
 
 ### Tourist Attractions
 - Iglesia San Francisco
+- Basilica
 
 ### Local Attractions
 - Teleferico
