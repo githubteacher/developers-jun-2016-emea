@@ -5,4 +5,6 @@
 ### Tourist Attractions
 
 ### Local Attractions
-- Brandenburger Tor, Zoo
+- Brandenburger Tor
+- Zoo
+- Berlin Wall: East Side Gallery
