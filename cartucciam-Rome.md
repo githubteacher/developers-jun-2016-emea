@@ -1,11 +1,10 @@
 # Rome, Italy
 
 ### Restaurants
-- Da Enzo al 29, Trastevere 
+- Da Enzo al 29, Trastevere
 
 ### Tourist Attractions
-- Colosseum 
+- Colosseum
+- Fori Imperiali
 
 ### Local Attractions
-
-
