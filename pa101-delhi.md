@@ -4,6 +4,7 @@
 
 
 ### Tourist
+- Lotus temple
 
 ### Local Attraction
 - Sarojini nagar
