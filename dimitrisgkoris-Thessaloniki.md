@@ -1,0 +1,3 @@
+restaurants
+touristic attractions
+local attractions
