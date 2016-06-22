@@ -5,5 +5,8 @@
 
 ### Tourist Attractions
 - Harrogate
+- Shadwell
+- Whitby
+
 ### Universities
 - Leeds university
