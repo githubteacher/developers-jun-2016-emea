@@ -10,7 +10,6 @@
 - Domino's
 - Papa Gino's
 
-### Tourist Attractions
-
 ### Local Attractions
-- Nashoba Valley Ski Area
+- Kimball Farm: https://butterflyplace-ma.com/  
+- Nashoba Valley Ski Area: https://www.skinashoba.com/
