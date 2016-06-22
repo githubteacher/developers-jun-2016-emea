@@ -6,7 +6,8 @@
 - African : Gabonese and African foods (Vegetables, Bushmeat, ...) : Restaurant Copa Cabana, le Gourmand
 
 ### Touristic sites
-- Beach (Lycée Léon MBA, Sablière, Cap Esterias)
+- Beaches (Lycée Léon MBA, Sablière, Cap Esterias)
+- Green spaces
 - Zoo : Elephants, and many wild animals
 
 ### Local attractions
