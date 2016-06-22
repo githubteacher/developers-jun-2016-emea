@@ -8,6 +8,8 @@
 
 
 ### Toursit Attractions
+- Liberty observatory 
+- Comcast large screen 
 
 ### Local Attractions
 -Liberty bell
