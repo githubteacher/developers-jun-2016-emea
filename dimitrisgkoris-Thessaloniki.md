@@ -1,3 +1,4 @@
-restaurants
-touristic attractions
-local attractions
+#restaurants
+#touristic attractions
+#local attractions
+The White Tower
