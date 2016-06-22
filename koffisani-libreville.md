@@ -6,7 +6,8 @@
 - African : Gabonese and African foods (Vegetables, Bushmeat, ...) : Restaurant Copa Cabana, le Gourmand
 
 ### Touristic sites
--
+- Beach (Lycée Léon MBA, Sablière, Cap Esterias)
+- Zoo : Elephants, and many wild animals
 
 ### Local attractions
 - Libreville, GA
