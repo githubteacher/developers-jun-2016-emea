@@ -5,3 +5,4 @@ casbah
 
 ### Attractions
 beach
+waffle houses everywhere!!!!!!! 
