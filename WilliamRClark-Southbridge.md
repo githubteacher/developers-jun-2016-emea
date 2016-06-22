@@ -7,3 +7,5 @@
 
 ### Local Attractions
 1.  Your friend the TV
+2.  Chickens :chicken:
+2.  Waiting in traffic :vertical_traffic_light:
