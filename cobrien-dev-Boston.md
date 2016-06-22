@@ -1,6 +1,11 @@
 # Boston
 
 ### Restaurants
+- Pelino's
+- Legal Seafood
+- Chart House
+- Capital Grille
+- Blue Asia Cafe
 
 ### Tourist Attractions
 - Freedom Trail
