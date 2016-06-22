@@ -11,3 +11,5 @@
 
 ### Local Attractions
 - The duck boats
+- Hershey Park
+- Sesame Place
