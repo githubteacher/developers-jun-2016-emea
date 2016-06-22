@@ -1,6 +1,7 @@
 # Wroclaw
 
 ### Restaurants
+- Cafe: Central Cafe
 
 ### Tourist Attractions
 
