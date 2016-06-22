@@ -9,6 +9,7 @@
 ### Tourist Attractions
 - Gateway of India
 - Bollywood
+- Rajivgandhi National Park
 
 ### Local Attractions
 -Chor Bazar
