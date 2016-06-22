@@ -11,6 +11,7 @@
 - Water Skiing
 - Hunting
 - Snowmobiling
+- Hiking/Snowshoe 
 - Woodland camping
 
 ### Local Attractions 
