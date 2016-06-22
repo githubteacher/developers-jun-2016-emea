@@ -3,6 +3,7 @@
 ### Restaurants
 - Larry's Steaks
 - Argentinian: Malbec
+- Joes (in Fishtown)
 
 ### Tourist Attractions
 - Pat's cheesesteaks
