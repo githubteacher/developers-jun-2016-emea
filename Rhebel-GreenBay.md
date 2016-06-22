@@ -10,3 +10,7 @@
 ### Local Attractions
 - Bay Beach
 - Meyer Theatre
+
+### Nearby places
+- Appleton
+- Ashwaubenon
