@@ -10,3 +10,7 @@ Chicago Chop House
 - Hancock Bulding
 - Chicago River
 - Lake Michigan
+- Lincoln Park
+- Grant Park
+- Buckingham Fountain
+
