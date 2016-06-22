@@ -4,6 +4,7 @@
 - Mama's Vegetarian
 - Di Bruno Bros.
 - Vernick Food & Drink
+- Foods from Street vendors are good too
 
 
 ### Toursit Attractions
