@@ -3,6 +3,7 @@
 ### Restaurants
 
 ### Tourist Attractions
+- Natick Common
 
 ### Local Attractions
 - Natick Mall
