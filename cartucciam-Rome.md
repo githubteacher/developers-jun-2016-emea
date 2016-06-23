@@ -7,8 +7,10 @@
 - Colosseum
 - Fori Imperiali
 - Fontana di Trevi
+- Pantheon
 
 ### Local Attractions
 - Zoo
 - Gardens
 - MaXXI Museum (designed by Zaha Hadid)
+
